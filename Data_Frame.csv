@@ -1,0 +1,15 @@
+Age,Hair_Size,Brown_Eye,Sex,Won
+youth,long,no,male,no
+youth,long,no,female,no
+middle_age,long,no,male,yes
+senior,medium ,no,male,yes
+senior,short,yes,male,yes
+senior,short,yes,female,no
+middle_age,short,yes,female,yes
+youth,medium ,no,male,no
+youth,short,yes,male,yes
+senior,medium ,yes,male,yes
+youth,medium ,yes,female,yes
+middle_age,medium ,no,female,yes
+middle_age,long,yes,male,yes
+senior,medium ,no,female,no
